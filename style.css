@@ -192,6 +192,7 @@ p {
     padding: 40px;
     background: #fff;
     border-radius: 16px;
+    border: 2px solid black;
 }
 
 .project p {
